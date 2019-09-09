@@ -1,0 +1,285 @@
+@media all and (max-width: 320px) {
+
+}
+@media all and (max-width: 480px) {
+
+}
+@media all and (max-width: 600px) {
+
+}
+@media all and (max-width: 800px) {
+
+}
+@media all and (max-width: 760px) {
+
+}
+@media all and (max-width: 1024px) {
+
+}
+@media all and (max-width: 1500px) {
+
+}
+
+
+.eco-container-page{
+  font-family: Calibri,Arial,Algerian;
+
+}
+
+/*------------------*/
+.navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1B1D17;
+  width: 100%;
+  display: block;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 100000;
+  border-bottom: 1px solid #63625c;
+  box-shadow: 1px 3px 5px #63625c;
+  opacity: 0.7;
+
+}
+
+.menu-navbar a{
+  float: left;
+  text-decoration: none;
+  color: white;
+  opacity: 1.5;
+}
+.menu-navbar a img{
+  margin-left: 10px;
+  margin-top: 2px;
+  width: 70px;
+  height: 70px;
+  border: 1px solid #63625c;
+  border-radius: 10px;
+}
+
+.menu-navbar-button-hide-small{
+  float: right;
+
+
+}
+
+.menu-navbar-button-hide-small a{
+  font-family: Calibri, Arial;
+  font-size: 22px;
+  border-left: 1px solid white;
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 25px 30px;
+  text-decoration: none;
+  text-align: center;
+
+
+}
+
+.menu-navbar-button-hide-small a:hover{
+  background-color: white;
+  color: black;
+}
+
+/*--------#63625c-------*/
+.eco-image-home{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+.eco-logo-name{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.text-eco b{
+  font-size: 80px;
+  padding: 10px;
+  background-color: black;
+  opacity: 0.6;
+}
+/*------------------*/
+
+.eco-image-home {
+  width: 100%;
+  top: 0;
+  right: 0;
+  z-index: 100000;
+
+}
+.eco-image{
+  width: 100%;
+
+}
+/*---------------*/
+
+/*---------------*/
+
+.eco-project-f{
+  padding: 20px;
+  margin-left: 20px;
+  margin-bottom: -5px;
+  font-size: 30px;
+
+}
+
+.gallery {
+  border: 1px solid #ccc;
+  box-shadow: 1px 3px 5px #63625c;
+}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+  margin-top:20px;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+/*---------------*/
+.eco-product{
+  margin-top: 350px;
+
+}
+
+.eco-product-f{
+  margin-left: 20px;
+  margin-bottom: -5px;
+  font-size: 30px;
+
+
+}
+.eco-container{
+  margin-top: -600px;
+}
+
+/*---------------*/
+
+.eco-about{
+  margin-top: 650px;
+  font-size: 20px;
+  font-family: Calibri, Arial;
+}
+.eco-about-f{
+  margin-left: 20px;
+  margin-bottom: -5px;
+  font-size: 30px;
+}
+.image-about{
+  margin-bottom: 600px;
+
+
+
+}
+
+.gallery-a {
+  border: 1px solid #ccc;
+  box-shadow: 1px 3px 5px #63625c;
+}
+
+.gallery-a:hover {
+  border: 1px solid #777;
+}
+
+.gallery-a img {
+  width: 100%;
+  height: auto;
+}
+.gallery-a a  img{
+  width: 387px;
+  height: 400px;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive-a {
+  padding: 0 6px;
+  float: left;
+  width: 30%;
+  margin-top:20px;
+  margin-left: 30px;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive-a {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive-a {
+    width: 100%;
+  }
+}
+/*---------------*/
+.eco-image-end{
+  margin-top: 700px;
+  width: 100%;
+  padding-top: 100px;
+}
+/*---------------*/
+.eco-footer{
+  border-top: 1px solid #63625c;
+  box-shadow: 1px 3px 5px #63625c;
+  background-color: black;
+  height: 100px;
+  margin-top: 20px;
+  color: white;
+  font-size: 20px;
+  width: 100%;
+  opacity: 0.7;
+
+}
+.eco-footer h5{
+  line-height: 10px;
+  margin-left: 40px;
+  font-family: Calibri, Arial;
+}
+
+.desc{
+  font-family: Calibri,Arial;
+}
+
